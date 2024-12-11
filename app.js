@@ -157,5 +157,35 @@ console.log('---------------- TASK - 07 ---------------- \n ')
 // }
 
 
+console.log('---------------- TASK - 08 ---------------- \n ')
+
+// let mirNum = parseInt(prompt('Enter a six-digit number'));
+// let lengthNum = mirNum.toString().length;
+// let mirStr = mirNum.toString();
+
+// if (lengthNum === 6) {
+
+//     let firstSideNum = parseInt(mirStr.slice(0, 3));
+//     let secondSideNum = parseInt(mirStr.slice(3, 6));
+
+//     let a = Math.floor(firstSideNum / 100);
+//     let b = Math.floor((firstSideNum % 100) / 10);
+//     let c = firstSideNum % 10;
+
+//     let x = Math.floor(secondSideNum / 100);
+//     let y = Math.floor((secondSideNum % 100) / 10);
+//     let z = secondSideNum % 10;
+
+//     if (a === z && b === y && c === x) {
+//         console.log('your number is a MIRROR');
+//     } else {
+//         console.log('Correct value not found');
+//     }
+
+// } else {
+//     alert('Six digit number not found');
+// }
+
+
 
 
